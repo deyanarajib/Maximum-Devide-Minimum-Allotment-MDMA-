@@ -1,0 +1,8 @@
+MDMA Algorithm
+
+Step 1: Construct the Transportation Table (TT) for the given Pay Off Matrix (POM).
+Step 2: Choose the maximum element(ME) from POM and divide all elements by the ME in the Constructed Transportation Table (CTT).
+Step 3: Supply the demand for the minimum element newly CTT.
+Step 4: Select the next maximum element in CTT and repeat the same procedure for remaining allotments
+
+Source: A. Amaravathy, K. Thiagarajan and S. Vimala, "MDMA Method- An Optimal Solution for Transportation Problem", Middle-East Journal of Scientific Research 24 (12): 3706-3710, 2016.
